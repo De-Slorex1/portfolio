@@ -33,7 +33,7 @@ const Header = () => {
                                 <span className="heading-primary--sub styling_head" style={{fontWeight: '900'}}>FULLSTACK DEVELOPER</span>
                         </h1>
 
-                        <a href="https://netorgft16459046-my.sharepoint.com/:w:/g/personal/onlineclasses_itssng_com/EXqtovWQeK9AqTa5NpPgpFMBvIY4HSt-pBzjIwtu-7NeRQ?e=CKyLQh" target="_blank" rel="noreferrer" className="resume_button btn btn--animated ">DOWNLOAD MY RESUME</a>
+                        <a href="/Jacob_Samson_Aina_Fullstack_Developer_CV.pdf" target="_blank" rel="noreferrer" className="resume_button btn btn--animated ">DOWNLOAD MY RESUME</a>
                 </div>
         </header>
 
