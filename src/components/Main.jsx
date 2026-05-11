@@ -76,6 +76,24 @@ const Main = () => {
                         <br />
 
                         <div className="row">
+                                <ProjectCard 
+                                  title={"APTECH IBADAN WEBSITE"} 
+                                  link="https://aptechibadan.com/" 
+                                  linkName="View live"
+                                >
+                                    <li>Redesigned and rebuilt the official Aptech Ibadan website with a modern, responsive UI focused on improving student engagement and course accessibility.</li>
+                                
+                                    <li>Developed dynamic pages for programs, admissions, training tracks, and events using Next.js, TypeScript, Tailwind CSS, and Framer Motion.</li>
+                                
+                                    <li>Implemented reusable components, optimized performance, improved mobile responsiveness, and enhanced overall user experience.</li>
+                                
+                                    <li>Integrated modern animations, structured layouts, and scalable frontend architecture for production-ready deployment.</li>
+                                
+                                    <li>Next.js</li>
+                                    <li>TypeScript</li>
+                                    <li>Tailwind CSS</li>
+                                    <li>Framer Motion</li>
+                                </ProjectCard>
                                 <ProjectCard title={"ABSOLUTE GRACE PROPERTIES"} link="https://www.absolutegraceproperties.com/" linkName="View live"> 
                                         <li>Next.JS</li>
                                         <li>Node.JS</li>
